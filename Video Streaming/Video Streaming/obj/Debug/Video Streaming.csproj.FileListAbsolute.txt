@@ -1,0 +1,7 @@
+E:\Programming\Google HashCode\Video Problem\Video Streaming\Video Streaming\bin\Debug\Video Streaming.exe.config
+E:\Programming\Google HashCode\Video\Video Streaming\Video Streaming\bin\Debug\Video Streaming.exe.config
+E:\Programming\Google HashCode\Video\Video Streaming\Video Streaming\obj\Debug\Video Streaming.csprojResolveAssemblyReference.cache
+E:\Programming\Google HashCode\Video\Video Streaming\Video Streaming\bin\Debug\Video Streaming.exe
+E:\Programming\Google HashCode\Video\Video Streaming\Video Streaming\bin\Debug\Video Streaming.pdb
+E:\Programming\Google HashCode\Video\Video Streaming\Video Streaming\obj\Debug\Video Streaming.exe
+E:\Programming\Google HashCode\Video\Video Streaming\Video Streaming\obj\Debug\Video Streaming.pdb
